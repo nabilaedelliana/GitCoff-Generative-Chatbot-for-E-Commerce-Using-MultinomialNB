@@ -1,5 +1,9 @@
 # GitCoff-Generative-Chatbot-for-E-Commerce-Using-MultinomialNB
 This project is creating a generative chatbot for online shop that sells ready-to-serve coffee named GitCoffee.
+## Telegram Bot
+Jump to the GitCoff bot on Telegram
+https://t.me/gitcoffee_bot
+
 ![](/img/Logo%20Git%20Coffee.png)
 
 The chatbot takes generative concept for that can recognize similar text-input for specific tag and gives variative responses.
@@ -16,10 +20,6 @@ The dataset is built and improved along the model improvisation. The main metric
     - pattern : the data that represent the input for GitCoff from user/customer and will be trained later to the model.
     - responses : defines the responses that will be selected randomly as the output for the input.
 2. data_kopi.csv : contains 8 informations about data coffee, dataset for recommeder system.
-
-## Telegram Bot
-Jump to the GitCof bot on Telegram
-https://t.me/gitcoffee_bot
 
 This project is my final project with my team while learning on data science bootcamp. Here it is my team member :
   - Megatheo J. Rumahorbo

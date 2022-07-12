@@ -14,7 +14,7 @@ This chatbot is quite better over the others because the other chatbots using di
 This Project aims to create a user-friendly chatbot (GitCoff" for e-commerce "GitCoffee" to help communicating with customers in the more effective way for non-technical question with the concept of machine learning and NLP.
 
 ## Dataset
-The dataset is built and improved along the model improvisation. The main metrics that we used to evaluate the model is recall because wa want to have a higher true positves so that the model can predicts the tag more accurate. We built our own dataset in order to have a relevan dataset and in to complete the aims of the objectives.
+The dataset is built and improved along the model improvisation. We built our own dataset in order to have a relevan dataset and in to complete the aims of the objectives.
 1. Intents : contains 3 informations, dataset for the chatbot
     - tag : defines the class of the question/input and the answer/output.
     - pattern : the data that represent the input for GitCoff from user/customer and will be trained later to the model.

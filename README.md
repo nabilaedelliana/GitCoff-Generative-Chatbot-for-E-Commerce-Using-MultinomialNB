@@ -1,7 +1,6 @@
-![](/img/Logo%20Git%20Coffee.png)
-
 # GitCoff-Generative-Chatbot-for-E-Commerce-Using-MultinomialNB
 This project is creating a generative chatbot for online shop that sells ready-to-serve coffee named GitCoffee.
+![](/img/Logo%20Git%20Coffee.png)
 
 The chatbot takes generative concept for that can recognize similar text-input for specific tag and gives variative responses.
 

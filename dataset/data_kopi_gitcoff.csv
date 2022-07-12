@@ -1,0 +1,17 @@
+nama_kopi,jenis_kopi,rasa_kopi,aroma_kopi,deskripsi_kopi,asal_negara,harga,rating
+git coffee macchiato,macchiato,manis,tajam,sejenis kopi espresso yang diberikan busa susu diatasnya,italia,70000,7.2
+git coffee latte,latte,manis,tajam,sejenis kopi espresso yang diberi susu,italia,40000,7.5
+git coffee black ivory,black ivory,pahit,pahit,kopi arabica yang di proses di pencernaan gajah,thailand,7500000,6.3
+git coffee robusta,robusta,pahit,tajam,kopi yang memiliki rasa cenderung kuat dan pahit,afrika,50000,8.1
+git coffee arabica,arabica,manis,tajam,kopi yang memliki rasa lembut dan manis,ethiopia,80000,8.5
+git coffee luwak,luwak,manis,tajam,kopi yang di proses di pencernaan luwak,indonesia,150000,9.0 
+git coffee luwak arabica,luwak arabica,manis,tajam,kopi arabica yang di proses di pencernaan luwak,indonesia,250000,7.8
+git coffee luwak robusta,luwak robusta,pahit,tajam,kopi robusta yang di proses di pencernaan luwak,indonesia,280000,6.7
+git coffee signature with strawberry,kopi kreasi strawberry,manis,segar,kopi kreasi dengan menggunakan strawberry,indonesia,90000,5.4
+git coffee signature with caramel,kopi kreasi caramel,manis,segar,kopi kreasi dengan tambahan caramel,indonesia,80000,6.9
+git coffee signature with mint,kopi kreasi mint,manis,segar,kopi kreasi dengan tambahan mint,indonesia,85000,3.5
+git coffee signature with gula aren,kopi kreasi gula aren,manis,segar,kopi kreasi dengan tambahan rasa dari gula aren,indonesia,75000,6.8
+git coffee mocca,moccachino,pahit dan manis,tajam,campuran kopi espresso dengan susu dan coklat,italia,60000,7.0 
+git coffee express,espresso,pahit,tajam,kopi dengan tekstur dan aroma yang pekat dan kental,italia,85000,7.5
+git coffee americano,americano,pahit,tajam,kopi yang tidak terlalu pekat dan kental,italia,60000,7.7
+git coffee cappuci,cappucino,pahit dan manis,tajam,kopi campuran antara susu dengan espresso,italia,65000,8.2
